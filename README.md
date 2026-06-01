@@ -1,4 +1,4 @@
-
+# Enterprise Data Lakehouse for Corporate Registry & Governance
 
 A modern data engineering platform based on Lakehouse architecture using Delta Live Tables (DLT) for ingestion, transformation, governance, and analytics of Brazilian Federal Revenue public data (CNPJ).
 
