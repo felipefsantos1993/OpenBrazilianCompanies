@@ -225,4 +225,4 @@ Feel free to open issues or contribute improvements.
 
 ## License
 
-This project uses publicly available data from the Brazilian Federal Revenue...
+This project uses publicly available data from the Brazilian Federal Revenue.
